@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "/mnt/c/Users/sibir/OneDrive/Desktop/2048-game",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
